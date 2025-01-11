@@ -1,2 +1,11 @@
 #pycache files
 __*
+
+#configuration files
+*.conf
+
+#log files
+*.log
+
+#text files
+*.txt
