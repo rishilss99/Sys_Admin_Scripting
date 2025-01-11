@@ -9,3 +9,12 @@ __*
 
 #text files
 *.txt
+
+#pdf files
+*.pdf
+
+#graph files
+*.png
+
+#shelve files
+*.s
